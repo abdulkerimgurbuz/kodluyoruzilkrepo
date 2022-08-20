@@ -40,3 +40,8 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 
 
 [MIT](https://choosealicense.com/licenses/mit/)
+
+
+---
+HERŞEY İÇİN TEŞEKKÜRLER [*PATİKA.DEV*](https://app.patika.dev)
+---
