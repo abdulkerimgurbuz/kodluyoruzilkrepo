@@ -20,7 +20,7 @@ git clone https://github.com/abdulkerimgurbuz/kodluyoruzilkrepo.git
 ## Usage
 
 
-Porjeyi clonladıktan sonra Visual Studio Code programında açınız.
+Porjeyi cloneladıktan sonra Visual Studio Code programında açınız.
 
 Linux için:
 
