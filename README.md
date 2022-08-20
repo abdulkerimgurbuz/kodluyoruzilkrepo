@@ -43,5 +43,5 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 
 
 ---
-HERŞEY İÇİN TEŞEKKÜRLER [*PATİKA.DEV*](https://app.patika.dev)
+### Herşey için TEŞEKKÜRLER [*PATİKA.DEV*](https://app.patika.dev)
 ---
